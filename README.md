@@ -39,11 +39,11 @@ A fully functional stopwatch with milliseconds.
   - `style.css` - Modern card design styling
   - `script.js` - Stopwatch timer logic
 
-### 6. **Additional Projects**
-- `new_project/` - Template project
-- `new_project_2/` - Template project
-- `another_project/` - Template project
-- `project_three/` - Template project
+### 6. **calculator**
+- `calculator/`
+  - `index.html` - calcul interface
+  - `style.css` - styling
+  - `script.js` - calcul logic
 
 ## 🚀 Getting Started
 
